@@ -11,17 +11,17 @@
                       *++=
                      +**=
                     -*+*:
-           .+=     :**+-                    aranya
-          %@**     *#*=                     --------------------------------------
-         #@%=     *#*+.                     role     //  2nd-yr cse @ vit pune
-        -@@@@    -*++:                      focus    //  games | cv | ai | esp32
-        -@@@@@@%%*=+=                       stack    //  c# | c++ | python | ts
-        :@@@@%%#*+==-     ..                guitar   //  fender stratocaster hss
-        +@@@@%@%%+**:    ==:.               roots    //  pune/goa
-       -%@@@%@###*+%%#**= -*        
-      *@@@@@%%#%##%%%=.  =%         
-    -%@@@@#@@#%@%@@@%:..%=                  --------------------------------------
-   #@@@@#%@@%#*%@@@@%:-@.                   web      //  https://07aranya.site
+           .+=     :**+-
+          %@**     *#*=           aranya.
+         #@%=     *#*+.           ----------------------------------
+        -@@@@    -*++:            games, ai, software
+        -@@@@@@%%*=+=             2nd-yr cse @ vit pune
+        :@@@@%%#*+==-     ..      fender stratocaster hss
+        +@@@@%@%%+**:    ==:.     pune / goa
+       -%@@@%@###*+%%#**= -*      ----------------------------------
+      *@@@@@%%#%##%%%=.  =%       https://07aranya.site
+    -%@@@@#@@#%@%@@@%:..%=
+   #@@@@#%@@%#*%@@@@%:-@.
  -=#@@@@*@@%*#%#%@@@+@=:
 :*++@@@@#*###%#@@##@%%##
 %%*+*@@@@%=****#*@@%%##+
@@ -33,26 +33,14 @@
                ....
 ```
 
-### Featured Systems
+[![07aranya.site](https://img.shields.io/badge/07aranya.site-111?style=flat-square&logo=googlechrome&logoColor=c8f53d)](https://07aranya.site)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/07aranya/)
+[![GitHub](https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github&logoColor=white)](https://github.com/07aranya)
+[![Email](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=white)](mailto:07aranya@gmail.com)
 
-| Project | Domain | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Vernacular AI Chatbot** | Full-Stack & AI | React, TypeScript, Gemini API | [Live](https://vernacular-chatbot.vercel.app/) · [Code](https://github.com/07aranya/VernacularChatbot) |
-| **ASeP2: Haptic Nav** | Assistive IoT | ESP32, Ultrasonic Sensors, Python | [Live](https://haptic-helmet-nav.onrender.com) · [Code](https://github.com/07aranya/haptic-helmet-nav) |
-| **Gyro Ball Controller** | Embedded Physics | ESP32, MPU6050, C++ | [Code](https://github.com/07aranya/gyro-ball-controller) |
-| **Gesture Fruit Ninja** | Computer Vision | Python, OpenCV, MediaPipe, Pygame | [Code](https://github.com/07aranya/python-fruit-ninja) |
-| **CBSE Portal Redesign** | Web / UI | HTML5, CSS3, JavaScript | [Live](https://cbse-website-new.vercel.app/) · [Code](https://github.com/07aranya/CBSE-Website) |
-
-*Also built a standalone **VR Horror Experience** in Unity (C# / XR) with spatial 3D audio and state-machine AI for VIT Pune's tech fest.*
-
-### Toolbelt
-
-* **Languages:** `C#` · `C++` · `Python` · `TypeScript` · `JavaScript`
-* **Engines & Frameworks:** `Unity 2D/3D` · `OpenCV` · `MediaPipe` · `Pygame` · `React`
-* **Hardware & Infra:** `ESP32` · `Arduino` · `Sensors / Haptics` · `Git` · `Vercel`
-
-
-
----
-
-[Portfolio](https://07aranya.site) · [LinkedIn](https://www.linkedin.com/in/07aranya/) · [Email](mailto:07aranya@gmail.com)
+**Projects**
+- [![Vernacular Chatbot](https://img.shields.io/badge/Vernacular_Chatbot-111?style=flat-square&logo=googlegemini&logoColor=c8f53d)](https://github.com/07aranya/VernacularChatbot) · [live](https://vernacular-chatbot.vercel.app/)
+- [![ASeP2 Haptic Nav](https://img.shields.io/badge/ASeP2_Haptic_Nav-111?style=flat-square&logo=espressif&logoColor=white)](https://github.com/07aranya/haptic-helmet-nav) · [live](https://haptic-helmet-nav.onrender.com)
+- [![Gyro Ball](https://img.shields.io/badge/Gyro_Ball-111?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/07aranya/gyro-ball-controller)
+- [![Gesture Fruit Ninja](https://img.shields.io/badge/Gesture_Fruit_Ninja-111?style=flat-square&logo=opencv&logoColor=white)](https://github.com/07aranya/python-fruit-ninja)
+- [![CBSE Portal](https://img.shields.io/badge/CBSE_Portal-111?style=flat-square&logo=javascript&logoColor=white)](https://github.com/07aranya/CBSE-Website) · [live](https://cbse-website-new.vercel.app/)
